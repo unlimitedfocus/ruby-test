@@ -8,3 +8,5 @@ gem 'simplecov'
 gem 'terminal-notifier-guard'
 
 gem 'rubocop'
+
+gem 'standalone_migrations'
